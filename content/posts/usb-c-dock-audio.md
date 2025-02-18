@@ -1,6 +1,6 @@
 +++
 date = '2025-02-17T16:13:05-08:00'
-draft = true
+draft = false
 title = 'Usb C Dock Audio'
 tags = ["linux", "audio"]
 +++
