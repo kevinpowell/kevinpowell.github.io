@@ -12,4 +12,4 @@ didn't fix things.  What did help was adding a circuit in-line between the dock 
 impedance seen by the dock.  As far as I can tell, the dock's 3.5mm TRRS output is optimized for headphones
 and things go poorly with a high impedance amp connected there.  Also, the amp wants stereo 3.5mm in (TRS)
 while the dock has TRRS (with mic) out -- so I got a splitter from Amazon to do the TRRS -> TRS conversion.
-[Headphone to Line-In]https://www.vwlowen.co.uk/radio/headphone2linein/headphones.htm
+[Headphone to Line-In](https://www.vwlowen.co.uk/radio/headphone2linein/headphones.htm "Headphone to Line-In")
