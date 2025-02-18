@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on A little blog of things I made work</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on A little blog of things I made work</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Feb 2025 15:50:54 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Images</title>
+      <link>http://localhost:1313/posts/hugo-images/</link>
+      <pubDate>Mon, 17 Feb 2025 15:50:54 -0800</pubDate>
+      <guid>http://localhost:1313/posts/hugo-images/</guid>
+      <description>&lt;p&gt;what they don&amp;rsquo;t tell you in the quickstart guide is that images get pulled from the static/ dir by default.  I made static/img/ and put my avatar in there, so in my config I refer to that file as /img/avatar.png&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

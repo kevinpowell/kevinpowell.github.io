@@ -1,0 +1,36 @@
+baseURL = 'https://kevinpowell.github.io/'
+languageCode = 'en-us'
+title = 'A little blog of things I made work'
+theme = "hugo-theme-m10c"
+
+[params]
+    author = "Kevin Powell"
+    description = "Embedded Systems Software Engineer"
+    avatar = "/img/kp_avatar.png"
+    # menu_item_separator: Separator between each menu item. HTML allowed (default: " - “)
+    favicon = "favicon/favicon.ico"
+
+    [[params.social]]
+    icon = "brand-github"
+    name = "My Github"
+    url = "https://github.com/kevinpowell"
+
+[pagination]
+  pagerSize = 25
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
