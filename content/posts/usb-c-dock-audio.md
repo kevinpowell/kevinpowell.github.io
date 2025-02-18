@@ -14,3 +14,7 @@ headphones and things go poorly with a high impedance amp connected there.
 Also, the amp wants stereo 3.5mm in (TRS) while the dock has TRRS (with mic)
 out -- so I got a splitter from Amazon to do the TRRS -> TRS conversion.
 [Headphone to Line-In](https://www.vwlowen.co.uk/radio/headphone2linein/headphones.htm "Headphone to Line-In")
+There is a lot of conflicting info about the assignments of the conductors in the trrs cable.
+I found that my dock uses tip for left audio, ring1 for right audio, ring2 for ground, and the sleeve for mic.
+
+![Resize](/img/impedence-circuit.svg?width=300px)
