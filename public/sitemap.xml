@@ -2,33 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kevinpowell.github.io/</loc>
     <lastmod>2025-02-17T16:13:05-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/audio/</loc>
+    <loc>https://kevinpowell.github.io/posts/</loc>
     <lastmod>2025-02-17T16:13:05-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2025-02-17T16:13:05-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-17T16:13:05-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-17T16:13:05-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/usb-c-dock-audio/</loc>
-    <lastmod>2025-02-17T16:13:05-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://kevinpowell.github.io/about/</loc>
     <lastmod>2025-02-17T16:10:19-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2025-02-17T15:50:54-08:00</lastmod>
+    <loc>https://kevinpowell.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/hugo-images/</loc>
-    <lastmod>2025-02-17T15:50:54-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kevinpowell.github.io/tags/</loc>
   </url>
 </urlset>
