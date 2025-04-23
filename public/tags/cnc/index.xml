@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cnc on A little blog of things I made work</title>
-    <link>https://kevinpowell.github.io/tags/cnc/</link>
+    <link>http://localhost:1313/tags/cnc/</link>
     <description>Recent content in Cnc on A little blog of things I made work</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Feb 2025 17:29:28 -0800</lastBuildDate>
-    <atom:link href="https://kevinpowell.github.io/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fadal Post Processing and Fusion 360</title>
-      <link>https://kevinpowell.github.io/posts/fadal-post-fusion-360/</link>
+      <link>http://localhost:1313/posts/fadal-post-fusion-360/</link>
       <pubDate>Mon, 17 Feb 2025 17:29:28 -0800</pubDate>
-      <guid>https://kevinpowell.github.io/posts/fadal-post-fusion-360/</guid>
+      <guid>http://localhost:1313/posts/fadal-post-fusion-360/</guid>
       <description>&lt;p&gt;My fadal VMC20 does not like the nc code that comes out of the default fadal post-processor&#xA;in Fusion360.  The g-code interpreter on the machine does not like the generated comments.&#xA;Here&amp;rsquo;s my solution:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;edit the fadal.cps (post definition)&lt;/li&gt;&#xA;&lt;li&gt;find the writeComment function; delete the part that adds the closing paren. Also find the onOpen function and delete the close paren added there (but not using the comment function &amp;ndash; not great programming)&lt;/li&gt;&#xA;&lt;li&gt;voila!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;When drip feeding the F360 generated nc programs, use DNC,0,1 (turn off error check)&lt;/p&gt;</description>
     </item>
   </channel>

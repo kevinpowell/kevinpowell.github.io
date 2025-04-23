@@ -1,8 +1,8 @@
 +++
 date = '2025-04-22T17:10:36-07:00'
-draft = true
+draft = false
 title = 'Creality Halot One From Linux'
-tags = []
+tags = [linux 3dprinting]
 +++
 This is not much of my original work.  But here goes anyway -- I got a Creality Halot One for cheap
 on EBay.  It's not a bad little resin printer.  However, the mfr software (Halot Box) is windows only.
