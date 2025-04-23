@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3dprinting on A little blog of things I made work</title>
+    <link>http://localhost:1313/tags/3dprinting/</link>
+    <description>Recent content in 3dprinting on A little blog of things I made work</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2025 17:10:36 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/3dprinting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creality Halot One From Linux</title>
+      <link>http://localhost:1313/posts/creality-halot-one-from-linux/</link>
+      <pubDate>Tue, 22 Apr 2025 17:10:36 -0700</pubDate>
+      <guid>http://localhost:1313/posts/creality-halot-one-from-linux/</guid>
+      <description>&lt;p&gt;This is not much of my original work.  But here goes anyway &amp;ndash; I got a Creality Halot One for cheap&#xA;on EBay.  It&amp;rsquo;s not a bad little resin printer.  However, the mfr software (Halot Box) is windows only.&#xA;I got a little tired of having to spin up my Windows VM in order to start up a print.  So, I went&#xA;looking for linux native options.&lt;/p&gt;&#xA;&lt;p&gt;git clone &lt;a href=&#34;https://github.com/danielkucera/creality-remote-control.git&#34;&gt;https://github.com/danielkucera/creality-remote-control.git&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;danielkucera has done a fine job with that project &amp;ndash; it is just a little html/javascript that one&#xA;loads up in a browser.  The javascript talks to the Halot One, and allows control of the printer (send file,&#xA;start, stop).  It is spartan in its design aesthetic, which I like.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
