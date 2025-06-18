@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on A little blog of things I made work</title>
+    <link>http://localhost:1313/tags/aws/</link>
+    <description>Recent content in AWS on A little blog of things I made work</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jun 2025 10:27:13 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aws Vpc to Microtik Site-to-Site VPN</title>
+      <link>http://localhost:1313/posts/aws-vpc-to-microtik/</link>
+      <pubDate>Tue, 17 Jun 2025 10:27:13 -0700</pubDate>
+      <guid>http://localhost:1313/posts/aws-vpc-to-microtik/</guid>
+      <description>&lt;p&gt;I wanted to have the company&amp;rsquo;s AWS vpc accessible directly from the office LAN, without&#xA;exposing the EC2 instances to the internet in general.  Of course, AWS supports this with&#xA;a Virtual Private Gateway and a Site-to-Site vpn.  They even give you instructions for setting&#xA;up the tunnel between a Microtik router and the AWS side.&lt;/p&gt;&#xA;&lt;p&gt;There are, however, caveats.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;As of May 2025, the provided instructions don&amp;rsquo;t match the new RouterOS interface.  It isn&amp;rsquo;t&#xA;too difficult to guess where the various parameters go.  If using a pre-shared key, you have to make&#xA;a new entry on the &amp;lsquo;Identities&amp;rsquo; tab and tie that to the peer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

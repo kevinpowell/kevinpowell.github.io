@@ -6,8 +6,22 @@
     <description>Recent content on A little blog of things I made work</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Apr 2025 17:10:36 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 10:27:13 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aws Vpc to Microtik Site-to-Site VPN</title>
+      <link>http://localhost:1313/posts/aws-vpc-to-microtik/</link>
+      <pubDate>Tue, 17 Jun 2025 10:27:13 -0700</pubDate>
+      <guid>http://localhost:1313/posts/aws-vpc-to-microtik/</guid>
+      <description>&lt;p&gt;I wanted to have the company&amp;rsquo;s AWS vpc accessible directly from the office LAN, without&#xA;exposing the EC2 instances to the internet in general.  Of course, AWS supports this with&#xA;a Virtual Private Gateway and a Site-to-Site vpn.  They even give you instructions for setting&#xA;up the tunnel between a Microtik router and the AWS side.&lt;/p&gt;&#xA;&lt;p&gt;There are, however, caveats.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;As of May 2025, the provided instructions don&amp;rsquo;t match the new RouterOS interface.  It isn&amp;rsquo;t&#xA;too difficult to guess where the various parameters go.  If using a pre-shared key, you have to make&#xA;a new entry on the &amp;lsquo;Identities&amp;rsquo; tab and tie that to the peer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Breaking the Halot One</title>
+      <link>http://localhost:1313/posts/breaking-the-halot-one/</link>
+      <pubDate>Tue, 22 Apr 2025 20:34:11 -0700</pubDate>
+      <guid>http://localhost:1313/posts/breaking-the-halot-one/</guid>
+      <description>&lt;p&gt;This is not so much &amp;ldquo;something I made work&amp;rdquo; and it is more of &amp;ldquo;I was a dolt and eventually sort of recovered.&amp;rdquo;&#xA;My Halot One resin printer lives out in the workshop, and it got knocked while I was working on&#xA;a different project.  Resin spilled out of the tank and into the upper area of the printer. Sadly,&#xA;I didn&amp;rsquo;t notice right away.  When I did notice, it looked like a relatively small spill &amp;ndash; so I cleaned&#xA;up the surfaces, but didn&amp;rsquo;t do any disassembly.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Creality Halot One From Linux</title>
       <link>http://localhost:1313/posts/creality-halot-one-from-linux/</link>

@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/3dprinting/</loc>
-    <lastmod>2025-04-22T17:10:36-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-22T17:10:36-07:00</lastmod>
+    <lastmod>2025-06-17T10:27:13-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/aws/</loc>
+    <lastmod>2025-06-17T10:27:13-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/aws-vpc-to-microtik/</loc>
+    <lastmod>2025-06-17T10:27:13-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/microtik/</loc>
+    <lastmod>2025-06-17T10:27:13-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-17T10:27:13-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-17T10:27:13-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/3dprinting/</loc>
+    <lastmod>2025-04-22T20:34:11-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/breaking-the-halot-one/</loc>
+    <lastmod>2025-04-22T20:34:11-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/creality-halot-one-from-linux/</loc>
     <lastmod>2025-04-22T17:10:36-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2025-04-22T17:10:36-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-22T17:10:36-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-22T17:10:36-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cnc/</loc>

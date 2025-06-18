@@ -6,8 +6,15 @@
     <description>Recent content in 3dprinting on A little blog of things I made work</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Apr 2025 17:10:36 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 20:34:11 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/3dprinting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking the Halot One</title>
+      <link>http://localhost:1313/posts/breaking-the-halot-one/</link>
+      <pubDate>Tue, 22 Apr 2025 20:34:11 -0700</pubDate>
+      <guid>http://localhost:1313/posts/breaking-the-halot-one/</guid>
+      <description>&lt;p&gt;This is not so much &amp;ldquo;something I made work&amp;rdquo; and it is more of &amp;ldquo;I was a dolt and eventually sort of recovered.&amp;rdquo;&#xA;My Halot One resin printer lives out in the workshop, and it got knocked while I was working on&#xA;a different project.  Resin spilled out of the tank and into the upper area of the printer. Sadly,&#xA;I didn&amp;rsquo;t notice right away.  When I did notice, it looked like a relatively small spill &amp;ndash; so I cleaned&#xA;up the surfaces, but didn&amp;rsquo;t do any disassembly.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Creality Halot One From Linux</title>
       <link>http://localhost:1313/posts/creality-halot-one-from-linux/</link>
